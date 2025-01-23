@@ -71,4 +71,4 @@ Troubleshooting
 Conclusion
 The Blues Magic Tarkov Bot is a useful tool for Tarkov players, offering quick access to ammo stats and flea market prices. It features a simple, easy-to-use GUI and requires minimal setup. The bot is capable of running directly from an .exe file, creating essential configuration and log files for each user.
 
-If you encounter any issues or have questions, please refer to the error_log.txt for more information or Blue_FRS in Discord for assistance.
+If you encounter any issues or have questions, please refer to the error_log.txt for more information
